@@ -38,3 +38,4 @@ Passionate about technology, problem-solving, and continuous learning, I aspire 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
+<h1>🌐 Connect with Me</h1>

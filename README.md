@@ -7,7 +7,8 @@ Passionate about technology, problem-solving, and continuous learning, I aspire 
 <li>🛠️ Experienced in React, C, and JavaScript.</li>
 <li>📸 Exploring a new creative journey as a photographer.</li>
 <li>🗒️ Building a note-taking app named WishperHub using Express and MongoDB.</li>
-###
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucifer-mk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>

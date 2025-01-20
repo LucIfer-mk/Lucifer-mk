@@ -6,7 +6,6 @@ Passionate about technology, problem-solving, and continuous learning, I aspire 
 <li>💻 Currently learning Python to specialize in Machine Learning and AI.</li>
 <li>🛠️ Experienced in React, C, and JavaScript.</li>
 <li>📸 Exploring a new creative journey as a photographer.</li>
-<li>🗒️ Building a note-taking app named WishperHub using Express and MongoDB.</li>
 
 <h1>📈 GitHub Stats</h1>
 <div align="center">

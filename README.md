@@ -5,6 +5,7 @@ Passionate about technology, problem-solving, and continuous learning, I aspire 
 </p>
 <li>💻 Currently learning Python to specialize in Machine Learning and AI.</li>
 <li>🛠️ Experienced in React, C, and JavaScript.</li>
+<li>📊 Getting Started with data. </li>
 <li>📸 Exploring a new creative journey as a photographer.</li>
 
 <h1>📈 GitHub Stats</h1>

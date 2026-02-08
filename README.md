@@ -1,41 +1,53 @@
-<h1>👋 Hello, I'm Manoj Kapri!</h1>
-<h2>🌟 About Me</h2>
-<p>I’m an international student from Nepal 🇳🇵 currently pursuing a Bachelor's in Information Technology.
-Passionate about technology, problem-solving, and continuous learning, I aspire to excel in fields like Machine Learning, AI, Cybersecurity, and Data Science.
+# 👋 Hi there, I'm Manoj Kapri! 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Origin-Nepal%20%F0%9F%87%B3%F0%9F%87%B5-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Role-IT%20Student-blue?style=for-the-badge">
 </p>
-<li>💻 Currently learning Python to specialize in Machine Learning and AI.</li>
-<li>🛠️ Experienced in React, C, and JavaScript.</li>
-<li>📊 Getting Started with data. </li>
-<li>📸 Exploring a new creative journey as a photographer.</li>
 
-<h1>📈 GitHub Stats</h1>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucifer-mk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🌟 About Me
+I’m an international student from Nepal currently pursuing a **Bachelor's in Information Technology**. I am passionate about technology, problem-solving, and continuous learning. My goal is to bridge the gap between web development and data-driven intelligence.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
-<h1>🌐 Connect with Me</h1>
+* **🔭 I’m currently working on:** Deepening my Python expertise for AI/ML applications.
+* **🌱 I’m learning:** Data Science workflows and Cybersecurity fundamentals.
+* **🛠️ Tech background:** Experienced in the MERN stack (React, Node.js) and low-level programming with C.
+* **📸 Fun Fact:** When I'm not coding, I'm exploring the world through my camera lens.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
+| **Backend/DB** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white) |
+
+---
+
+### 📈 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucifer-mk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucifer-mk&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats card" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer-mk&theme=dracula&hide_border=false" alt="streak stats" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/your-profile-username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <i>"The best way to predict the future is to invent it."</i>
+</p>

@@ -1,60 +1,49 @@
-<h1 align="center">👋 Hi, I'm Manoj Kapri</h1>
+<h1>👋 Hello, I'm Manoj Kapri!</h1>
 
-<p align="center">
-International Student from Nepal 🇳🇵 | Bachelor’s in Information Technology  
-<br />
-Aspiring Data Scientist | AI & Machine Learning Enthusiast
+<h2>🌟 About Me</h2>
+
+<p>I’m an international student from Nepal 🇳🇵 currently pursuing a Bachelor's in Information Technology.
+
+Passionate about technology, problem-solving, and continuous learning, I aspire to excel in fields like Machine Learning, AI, Cybersecurity, and Data Science.
+
 </p>
 
----
+<li>💻 Currently learning Python to specialize in Machine Learning and AI.</li>
 
-<h2>🚀 About Me</h2>
+<li>🛠️ Experienced in React, C, and JavaScript.</li>
 
-<p>
-I am an international student from Nepal currently pursuing a Bachelor's degree in Information Technology.
-I have a strong passion for technology, problem-solving, and continuous learning.  
-My long-term goal is to build a career in <b>Artificial Intelligence, Machine Learning, Cybersecurity, and Data Science</b>.
-</p>
+<li>📊 Getting Started with data. </li>
 
-<ul>
-  <li>💻 Currently learning <b>Python</b> with a focus on Machine Learning and AI</li>
-  <li>🛠️ Hands-on experience with <b>React, JavaScript, and C</b></li>
-  <li>📊 Actively building foundations in <b>data analysis and visualization</b></li>
-  <li>📸 Exploring photography as a creative and technical hobby</li>
-</ul>
+<li>📸 Exploring a new creative journey as a photographer.</li>
 
----
 
-<h2>📈 GitHub Stats</h2>
+
+<h1>📈 GitHub Stats</h1>
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucifer-mk&layout=compact&langs_count=5&theme=dracula" 
-    height="150" 
-    alt="Top Languages" 
-  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucifer-mk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
 </div>
 
----
 
-<h2>🧰 Tech Stack</h2>
+
+###
+
+
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-</div>
 
----
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 
-<h2>📌 What I’m Working On</h2>
+  <img width="12" />
 
-<ul>
-  <li>Building real-world projects using React and Python</li>
-  <li>Strengthening problem-solving and data skills</li>
-  <li>Preparing for a career in Data Science and AI</li>
-</ul>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />

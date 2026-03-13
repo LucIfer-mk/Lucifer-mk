@@ -13,7 +13,7 @@
 
 ## About Me
 
-I am a Bachelor of Information Technology student based in New Zealand, with a focus on building practical AI-powered systems and full-stack web applications. My current work sits at the intersection of **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, and modern web development — areas I am actively applying through personal projects and coursework.
+I am a Bachelor of Information Technology student with a focus on building practical AI-powered systems and full-stack web applications. My current work sits at the intersection of **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, and modern web development — areas I am actively applying through personal projects and coursework.
 
 I am seeking opportunities in IT roles where I can contribute to real-world software development, data systems, or AI integration while continuing to grow as an engineer.
 

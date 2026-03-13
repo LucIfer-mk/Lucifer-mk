@@ -13,7 +13,7 @@
 
 ## About Me
 
-I am a Bachelor of Information Technology student with a focus on building practical AI-powered systems and full-stack web applications. My current work sits at the intersection of **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, and modern web development — areas I am actively applying through personal projects and coursework.
+I am a Bachelor of Information Technology student with a focus on building practical AI-powered systems and full-stack web applications. My current work sits at the intersection of **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, and modern web development areas, which I am actively applying through personal projects and coursework.
 
 I am seeking opportunities in IT roles where I can contribute to real-world software development, data systems, or AI integration while continuing to grow as an engineer.
 
@@ -75,9 +75,9 @@ I am seeking opportunities in IT roles where I can contribute to real-world soft
 ## Education
 
 **Bachelor of Information Technology** — *In Progress*
-Expected Graduation: 2026
+Expected Graduation: 2027
 
-Relevant coursework: Requirements Modelling · Systems Analysis · Software Development · Data Structures · Cybersecurity Fundamentals
+Relevant coursework: Requirements Modelling · Systems Analysis · Software Development · Data Structures · Cybersecurity & Network Fundamentals · ERP, CRM and BI
 
 ---
 

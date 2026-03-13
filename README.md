@@ -56,7 +56,6 @@ I am seeking opportunities in IT roles where I can contribute to real-world soft
 | 🤖 **Agentic AI** | Building multi-agent systems using LangChain that reason, plan, and use tools autonomously |
 | 🔍 **RAG Systems** | Designing retrieval pipelines with PostgreSQL + pgvector for semantic search and document Q&A |
 | ⚡ **FastAPI + Next.js** | Developing full-stack applications with Python backends and React-based frontends |
-| 🛡️ **Cybersecurity** | Studying security principles as part of my IT degree specialisation |
 | 📊 **Data Science** | Applying Python for data analysis, visualisation, and ML model development |
 
 ---
@@ -64,8 +63,7 @@ I am seeking opportunities in IT roles where I can contribute to real-world soft
 ## GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucifer-mk&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=0A66C2&icon_color=0A66C2"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucifer-mk&layout=compact&theme=default&hide_border=true&langs_count=8&title_color=0A66C2"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucifer-mk&layout=compact&theme=default&hide_border=true&langs_count=8&title_color=0A66C2"/>
 </div>
 
 <div align="center">
@@ -77,7 +75,7 @@ I am seeking opportunities in IT roles where I can contribute to real-world soft
 ## Education
 
 **Bachelor of Information Technology** — *In Progress*
-New Zealand · Expected Graduation: 2026
+Expected Graduation: 2026
 
 Relevant coursework: Requirements Modelling · Systems Analysis · Software Development · Data Structures · Cybersecurity Fundamentals
 
@@ -85,9 +83,8 @@ Relevant coursework: Requirements Modelling · Systems Analysis · Software Deve
 
 ## Let's Connect
 
-I am open to **internships**, **graduate roles**, and **part-time developer positions** in New Zealand.
+I am open to **internships**, **graduate roles**, and **part-time developer positions**
 
 If you're looking for someone who brings practical AI and full-stack skills with a strong eagerness to contribute and grow — feel free to reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Kapri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kapri-160b142b8)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojkaprimanoj@gmail.com)

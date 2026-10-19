@@ -5,7 +5,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lucifer--mk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lucifer-mk)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:manojkaprimanoj@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Lucifer-mk&style=flat-square&color=0A66C2&label=Profile+Views)](https://github.com/Lucifer-mk)
 
 </div>
 
